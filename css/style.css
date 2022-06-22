@@ -1,0 +1,535 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Nuosu+SIL&family=Permanent+Marker&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Merriweather:wght@700&family=Nuosu+SIL&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Merriweather:wght@700&family=Nuosu+SIL&family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;400&family=Merriweather:wght@700&family=Nuosu+SIL&family=Permanent+Marker&display=swap');
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: rgb(51, 48, 48);
+    margin: 0;
+    height: 40px;
+    align-items: center;
+}
+
+.header ul {
+    display: flex;
+    list-style: none;
+    padding: 14px 396px;
+    width: 600px;
+}
+
+.header ul li {
+    padding-right: 26px;
+    font-size: 10px;
+    width: 400px;
+
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: rgb(219, 217, 217);
+
+}
+
+/* .header ul li .TV {
+    width: 100px;
+} */
+
+.header ul li a .apple i fa-brands fa-apple {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+
+.header2 {
+    display: flex;
+    align-items: center;
+    padding: 14px 464px;
+    background-color: #f7f7f7;
+    margin-bottom: 0px;
+
+}
+
+.header2 .unicef {
+    padding-right: 15px;
+}
+
+.header2 .Donate a {
+    text-decoration: none;
+    color: #2d6ab7;
+    font-size: 14px;
+}
+
+/* main */
+
+main {
+    margin: 0px;
+}
+
+.back {
+    background-color: #fbfbfd;
+    margin-top: 0px;
+
+}
+
+.main1 {
+    padding-left: 617px;
+
+
+}
+
+.main1 h1 {
+    font-size: 53px;
+    color: black;
+    margin-bottom: 0;
+}
+
+.main1 h5 {
+    padding-left: 100px;
+    font-size: 23px;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-weight: 100;
+
+}
+
+.back a {
+    text-decoration: none;
+    background-color: #fbfbfd;
+}
+
+main .Learn {
+    text-decoration: none;
+    color: blue;
+    padding-left: 76px;
+}
+
+
+main .Buy {
+    text-decoration: none;
+    color: blue;
+    padding-left: 46px;
+}
+
+.picture {
+    padding-left: 504px;
+    padding-top: 51px;
+
+}
+
+
+/* main2 */
+
+.main2 {
+    padding-left: 440px;
+    padding-top: 50px;
+    background-color: #32283b;
+
+}
+
+.main2 a {
+    text-decoration: none;
+    color: #2997ff;
+}
+
+.main2 h1 {
+    color: #fbfbfd;
+    font-size: 58px;
+    padding-left: 170px;
+    margin-bottom: 15px;
+}
+
+.main2 h3 {
+    color: rgb(254, 194, 235);
+    font-size: 25px;
+    padding-left: 178px;
+    margin-top: 15px;
+}
+
+.dis {
+    display: flex;
+    margin-left: 213px;
+
+}
+
+.Buy2 {
+    margin-left: 41px;
+}
+
+.img {
+    width: 772px;
+}
+
+/* main3 */
+
+.section1 {
+    display: flex;
+}
+
+.section1 .left1 {
+    background-color: #f9f9f9;
+    width: 739px;
+    margin: 35px 0px 0px 20px;
+    padding-top: 30px;
+}
+
+.section1 .left1 .forcntr .new {
+    color: #32283b;
+    padding-left: 200px;
+    font-size: 20px;
+}
+
+.section1 .left1 .forcntr h2 {
+    padding-left: 160px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.section1 .left1 .forcntr .icon {
+    display: flex;
+    align-items: center;
+    padding-left: 130px;
+
+}
+
+.section1 .left1 .forcntr .icon h2 {
+    color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.section1 .left1 .forcntr .icon i {
+    font-size: 40px;
+}
+
+.section1 .left1 .forcntr .series {
+    padding-left: 185px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.section1 .left1 .forcntr .display {
+    padding-left: 115px;
+    margin-top: 7px;
+
+}
+
+.section1 .left1 .forcntr .links {
+    display: flex;
+
+}
+
+.section1 .left1 .forcntr .links .lft1 {
+    padding-left: 112px;
+}
+
+.section1 .left1 .forcntr .links .lft11 {
+    padding-left: 45px;
+}
+
+.watch {
+    width: 500px;
+    height: 490px;
+    padding-left: 100px;
+    margin-top: 40px;
+
+}
+
+.section1 .right1 {
+    background-color: rgb(10, 4, 4);
+    margin: 34px 20px 0px 10px;
+    width: 739px;
+}
+
+.section1 .right1 h1 {
+    margin-left: 290px;
+    font-family: 'Nuosu SIL', serif;
+    color: white;
+}
+
+.section1 .right1 h4 {
+    margin-left: 300px;
+    font-family: 'Nuosu SIL', serif;
+    color: white;
+
+}
+
+.section1 .right1 .links2 {
+    display: flex;
+    margin-left: 294px;
+
+}
+
+.section1 .right1 .links2 .learnnn {
+    margin-right: 39px;
+    font-family: 'Nuosu SIL', serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.section1 .right1 .links2 .buyy {
+    font-size: 20px;
+    font-family: 'Nuosu SIL', serif;
+    text-decoration: none;
+    color: white;
+
+}
+
+.MacBook {
+    width: 734px;
+    height: 577px;
+    padding-top: 20px;
+
+}
+
+
+.forcntr {
+    padding-left: 140px;
+}
+
+.new {
+    text-decoration: none;
+}
+
+/* main4 */
+
+.main4 .ipad1 {
+    display: flex;
+    margin: 18px;
+}
+
+.main4 .ipad1 .ipad {
+    padding-left: 70px;
+    padding-top: 32px;
+    padding-left: 7px;
+    background-color: #ffffff;
+    width: 800px;
+}
+
+.main4 .ipad1 .ipad h1 {
+    padding-left: 310px;
+    margin-bottom: 8px;
+}
+
+.main4 .ipad1 .ipad span {
+    font-family: 'Permanent Marker', cursive;
+    color: blueviolet;
+}
+
+
+.main4 .ipad1 .ipad h4 {
+    padding-left: 270px;
+    margin-top: 0;
+}
+
+.main4 .ipad1 .ipad .links-main4 {
+    padding-left: 278px;
+
+}
+
+.main4 .ipad1 .ipad .links-main4 .lft11 {
+    padding-left: 20px;
+    color: #32283b;
+    font-size: 17px;
+}
+
+.main4 .ipad1 .ipad .links-main4 .lft1 {
+    color: #32283b;
+    font-size: 17px;
+
+}
+
+.main4 .ipad1 .ipad img {
+    padding-left: 60px;
+    padding-top: 28px;
+}
+
+
+.main4 .ipad1 .airpods {
+    background-color: #f7f7f7;
+    width: 800px;
+    margin-left: 9px;
+}
+
+.main4 .ipad1 .airpods h1 {
+    padding-left: 308px;
+    padding-top: 50px;
+    margin-bottom: 8px;
+}
+
+.main4 .ipad1 .airpods p {
+    padding-left: 300px;
+    margin-top: 0px;
+}
+
+.main4 .ipad1 .airpods .links-mainn4 {
+    padding-left: 285px;
+
+}
+
+.main4 .ipad1 .airpods .links-mainn4 .lftt1 {
+    margin-left: 20px;
+    color: #32283b;
+
+}
+
+.main4 .ipad1 .airpods img {
+    width: 400px;
+    height: 560px;
+    padding-left: 182px;
+    padding-top: 51px;
+}
+
+/* footer */
+
+footer {
+    background-color: #d2d2d7;
+}
+
+.foot {
+    width: 1268px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.foot p {
+    font-size: 14px;
+    padding-left: 380px;
+    color: #606065;
+}
+
+.final {
+    display: flex;
+    justify-content: space-between;
+    width: 1268px;
+    padding-right: 15px;
+
+}
+
+.final .one {
+    padding-left: 380px;
+    padding-bottom: 15px;
+}
+
+.final .one p {
+    font-size: 14px;
+    color: #3b3b3d;
+    font-family: 'Kanit', sans-serif;
+}
+
+.final .one p a {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    color: #525254;
+}
+
+.final .two p {
+    font-size: 14px;
+    color: #3b3b3d;
+    font-family: 'Kanit', sans-serif;
+}
+
+.final .two p a {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    color: #525254;
+}
+
+.final .three p {
+    font-size: 14px;
+    color: #3b3b3d;
+    font-family: 'Kanit', sans-serif;
+}
+
+.final .three p a {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    color: #525254;
+}
+
+.final .four p {
+    font-size: 14px;
+    color: #3b3b3d;
+    font-family: 'Kanit', sans-serif;
+}
+
+.final .four p a {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    color: #525254;
+}
+
+.final .five p {
+    font-size: 14px;
+    color: #3b3b3d;
+    font-family: 'Kanit', sans-serif;
+}
+
+.final .five p a {
+    font-size: 13px;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    color: #525254;
+}
+
+.shop {
+    width: 1268px;
+    margin-left: 374px;
+}
+
+.shop p {
+    color: #727277;
+    font-size: 13px;
+}
+
+.shop p a {
+    color: rgb(102, 171, 227);
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.copy-write {
+    display: flex;
+    align-items: center;
+    width: 1268px;
+    margin-left: 374px;
+    color: #727277;
+    font-size: 13px;
+}
+
+.Privacy {
+    padding-left: 32px;
+    display: flex;
+    align-items: center;
+
+}
+
+.Privacy p {
+    margin-left: 8px;
+    margin-right: 8px;
+    color: #727277;
+}
+
+.Privacy a {
+    text-decoration: none;
+    color: #727277;
+    font-size: 13px;
+}
